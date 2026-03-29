@@ -17,7 +17,7 @@
           "foreground": "#FFFB38",
           "style": "diamond",
           "template": "<parentBackground>\ue0b0</> \uf292 ",
-          "type": "root"
+          "type": "rot"
         },
         {
           "background": "#FF9248",
